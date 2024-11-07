@@ -46,7 +46,7 @@ class Configuration(six.with_metaclass(TypeWithDefault, object)):
     def __init__(self):
         """Constructor"""
         # Default Base url
-        self.host = "https://trading-api.kalshi.com/trade-api/v2"
+        self.host = "https://api.elections.kalshi.com/trade-api/v2"
         # Temp file folder for downloading files
         self.temp_folder_path = None
 

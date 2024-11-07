@@ -1,6 +1,6 @@
 # kalshi_python.MarketApi
 
-All URIs are relative to *https://trading-api.kalshi.com/trade-api/v2*
+All URIs are relative to *https://api.elections.kalshi.com/trade-api/v2*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
